@@ -82,8 +82,9 @@ body{
     position:absolute;
     background-color:white;
     color:black;
-    font-weight:300;
-   
+    font-weight:300; 
+
+    
     width:100px;
     height:70px;
     border-radius:4px;
@@ -108,3 +109,4 @@ ul li:hover{
     display:block;
     font-style:italic;
 }
+/* the end */
